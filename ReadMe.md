@@ -15,7 +15,7 @@ CLASSIFIER = 'support vector machine';
 
 The bag of words requires a vocabulary to be trained. The pre-trained vocabulary is provided as vocab.mat. If the user wishes to train a new vocabulary, vocab.mat must be renamed or removed.
 
-The result is seen as a confusion matrix of true class, and recognised class. The accuracy of the implementation is also displayed on the command window. Results and analysis is presented in a HTML document titled 'index.html' found in the repository.
+The result is seen as a confusion matrix of true class, and recognised class. The accuracy of the implementation is also displayed on the command window. Results and analysis is presented in a HTML document found here   http://htmlpreview.github.io/?https://github.com/anishagartia/scene-recognition/blob/master/html/index.html.
 
 The platform used is Matlab R2016a.
 Pre-requisites are vl-feat library for Matlab which can be found at http://www.vlfeat.org
