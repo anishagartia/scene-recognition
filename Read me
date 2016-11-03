@@ -19,4 +19,4 @@ The result is seen as a confision matrix of true class, and recognised class. Th
 
 The platform used is Matlab R2016a.
 Pre-requisited are vl-feat library for Matlab which can be found at http://www.vlfeat.org
-(See http://www.vlfeat.org/matlab/matlab.html for VLFeat Matlab documentation.)
+(See http://www.vlfeat.org/matlab/matlab.html for VLFeat Matlab documentation.) 
